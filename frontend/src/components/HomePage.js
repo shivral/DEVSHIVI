@@ -1,5 +1,4 @@
 import React from "react";
-import RoomJoinPage from "./RoomJoinPage";
 import RoomJoin from "./RoomJoin";
 import CreateRoomPage from "./CreateRoomPage";
 import Room from "./Room";
